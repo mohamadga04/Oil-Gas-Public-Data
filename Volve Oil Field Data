@@ -1,2 +1,18 @@
+About Volve Oil Field:
+• A shallow-water oil field in the southern Norwegian North Sea, west of Stavanger.
+• The Volve dataset is the most complete open-source Exploration & Production data available.
+• Volve produced oil for approximately 8 years, starting in February 2008 and ending in September 2016.
+------------------------------------------------------------------------------------------------------------------------------
+The data types in the Volve dataset are:
+• Reservoir Modeling 
+• Production Data
+• Drilling Data
+• Well Technical Data 
+• Logging Data
+• Seismic Data
+• Geoscience (Earth Modeling) 
+• Geophysical Interpretations 
+• Reports
+------------------------------------------------------------------------------------------------------------------------------
 To access the Volve oil field dataset, kindly use the following link:
 https://www.equinor.com/energy/volve-data-sharing
